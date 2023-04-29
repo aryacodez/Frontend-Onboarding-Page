@@ -1,0 +1,31 @@
+.move-text {
+  margin-left: -6px !important;
+}
+.light {
+  background-color: #ffffff; /* light background color */
+  color: #333333; /* light text color */
+}
+
+.dark {
+  background-color: #151b28; /* dark background color */
+  color: #ffffff; /* dark text color */
+}
+
+.dark1 {
+  background-color: #252d3c; /* dark background color */
+  color: #ffffff; /* dark text color */
+}
+
+.dark2 {
+  background-color: #252d3c; /* dark background color */
+  color: #ffffff; /* dark text color */
+}
+
+.form-control {
+  outline: none !important;
+  border: 0;
+}
+
+.curve {
+  border-radius: 1rem !important;
+}
